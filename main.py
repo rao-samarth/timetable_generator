@@ -85,6 +85,7 @@ def index():
                 .classes("w-full text-md md:text-lg")
                 .props("outlined rounded-lg clearable dense")
             )
+        search_button = ui.button("Search").classes("h-10")
 
         # 3. Lists (Collapsible)
         with ui.row().classes("w-full gap-4 md:gap-6 items-start"):
@@ -235,6 +236,7 @@ def index():
         course_cards[cid] = card
 
     search_field.on_value_change(refresh_ui)
+    search_button.on_click(refresh_ui)
     refresh_ui()
 
 
