@@ -1,0 +1,160 @@
+[
+    {
+        "id": "Science II",
+        "delete": true
+    },
+    {
+        "id": "Science II A",
+        "name": "Science II (UG2 CSE/D)",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 4
+            },
+            {
+                "day": "Fri",
+                "slot": 4
+            }
+        ]
+    },
+    {
+        "id": "Science II B",
+        "name": "Science II UG3 ECE/D, LED, CLD & CHD)",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Mon",
+                "slot": 4
+            },
+            {
+                "day": "Thu",
+                "slot": 4
+            }
+        ]
+    },
+    {
+        "id": "Introduction to Human Sciences",
+        "delete": true
+    },
+    {
+        "id": "Introduction to Human Sciences A",
+        "name": "Introduction to Human Sciences (UG2 ECE/D, CLD, CGD & UG3 CND)",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Mon",
+                "slot": 3
+            },
+            {
+                "day": "Thu",
+                "slot": 3
+            }
+        ]
+    },
+    {
+        "id": "Introduction to Human Sciences B",
+        "name": "Introduction to Human Sciences (UG2 CSE/D)",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Mon",
+                "slot": 4
+            },
+            {
+                "day": "Thu",
+                "slot": 4
+            }
+        ]
+    },
+    {
+        "id": "Cognitive Science and AI",
+        "name": "Cognitive Science and AI",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 4
+            },
+            {
+                "day": "Fri",
+                "slot": 4
+            }
+        ]
+    },
+    {
+        "id": "Electrodynamics",
+        "name": "Electrodynamics",
+        "half": "H2",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 2
+            },
+            {
+                "day": "Fri",
+                "slot": 2
+            }
+        ]
+    },
+    {
+        "id": "Introduction to Brain and Cognition",
+        "name": "Introduction to Brain and Cognition",
+        "half": "H2",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 2
+            },
+            {
+                "day": "Fri",
+                "slot": 2
+            }
+        ]
+    },
+    {
+        "id": "Machine Learning for Communication",
+        "name": "Machine Learning for Communication",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 4
+            },
+            {
+                "day": "Fri",
+                "slot": 4
+            }
+        ]
+    },
+    {
+        "id": "Quantum Algorithms",
+        "name": "Quantum Algorithms",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 2
+            },
+            {
+                "day": "Fri",
+                "slot": 2
+            }
+        ]
+    },
+    {
+        "id": "Thermodynamics",
+        "name": "Thermodynamics",
+        "half": "H1",
+        "sessions": [
+            {
+                "day": "Mon",
+                "slot": 4
+            },
+            {
+                "day": "Thu",
+                "slot": 4
+            }
+        ]
+    }
+]

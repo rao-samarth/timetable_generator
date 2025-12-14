@@ -1,0 +1,5 @@
+nicegui
+pdfplumber
+fpdf2
+ics
+uv

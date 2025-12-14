@@ -1,0 +1,2017 @@
+[
+    {
+        "id": "AI and Human Rights",
+        "name": "AI and Human Rights",
+        "half": "H1",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 3
+            },
+            {
+                "day": "Fri",
+                "slot": 3
+            }
+        ]
+    },
+    {
+        "id": "Advanced Algorithms",
+        "name": "Advanced Algorithms",
+        "half": "H2",
+        "sessions": [
+            {
+                "day": "Mon",
+                "slot": 3
+            },
+            {
+                "day": "Thu",
+                "slot": 3
+            }
+        ]
+    },
+    {
+        "id": "Advanced Bioinformatics",
+        "name": "Advanced Bioinformatics",
+        "half": "BOTH",
+        "sessions": []
+    },
+    {
+        "id": "Advanced Structural Analysis",
+        "name": "Advanced Structural Analysis",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Mon",
+                "slot": 1
+            },
+            {
+                "day": "Thu",
+                "slot": 1
+            }
+        ]
+    },
+    {
+        "id": "Analog Electronic Circuits",
+        "name": "Analog Electronic Circuits",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Mon",
+                "slot": 2
+            },
+            {
+                "day": "Thu",
+                "slot": 2
+            }
+        ]
+    },
+    {
+        "id": "Analog IC Design",
+        "name": "Analog IC Design",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 2
+            },
+            {
+                "day": "Fri",
+                "slot": 2
+            }
+        ]
+    },
+    {
+        "id": "Analysis and Design of Bridge Infrastructure",
+        "name": "Analysis and Design of Bridge Infrastructure",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 3
+            },
+            {
+                "day": "Fri",
+                "slot": 3
+            }
+        ]
+    },
+    {
+        "id": "Analysis and Design of Precast and Prestressed Structures",
+        "name": "Analysis and Design of Precast and Prestressed Structures",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 2
+            },
+            {
+                "day": "Fri",
+                "slot": 2
+            }
+        ]
+    },
+    {
+        "id": "Applications of Language Models",
+        "name": "Applications of Language Models",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Mon",
+                "slot": 5
+            },
+            {
+                "day": "Thu",
+                "slot": 5
+            }
+        ]
+    },
+    {
+        "id": "Art, Vision, and Feelings",
+        "name": "Art, Vision, and Feelings",
+        "half": "H2",
+        "sessions": [
+            {
+                "day": "Mon",
+                "slot": 4
+            },
+            {
+                "day": "Thu",
+                "slot": 4
+            }
+        ]
+    },
+    {
+        "id": "Arts-2",
+        "name": "Arts-2",
+        "half": "BOTH",
+        "sessions": []
+    },
+    {
+        "id": "Basics of Ethics",
+        "name": "Basics of Ethics",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Mon",
+                "slot": 4
+            },
+            {
+                "day": "Thu",
+                "slot": 4
+            }
+        ]
+    },
+    {
+        "id": "Behavioral Research: Statistical Methods",
+        "name": "Behavioral Research: Statistical Methods",
+        "half": "H2",
+        "sessions": [
+            {
+                "day": "Mon",
+                "slot": 3
+            },
+            {
+                "day": "Thu",
+                "slot": 3
+            }
+        ]
+    },
+    {
+        "id": "Biomolecular Structures",
+        "name": "Biomolecular Structures",
+        "half": "H1",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 2
+            },
+            {
+                "day": "Fri",
+                "slot": 2
+            }
+        ]
+    },
+    {
+        "id": "Business Finance",
+        "name": "Business Finance",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Sat",
+                "slot": 4
+            },
+            {
+                "day": "Sat",
+                "slot": 5
+            }
+        ]
+    },
+    {
+        "id": "CMOS Oscillator Design",
+        "name": "CMOS Oscillator Design",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Mon",
+                "slot": 1
+            },
+            {
+                "day": "Thu",
+                "slot": 1
+            }
+        ]
+    },
+    {
+        "id": "Classical Mechanics",
+        "name": "Classical Mechanics",
+        "half": "H1",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 2
+            },
+            {
+                "day": "Fri",
+                "slot": 2
+            }
+        ]
+    },
+    {
+        "id": "Cognitive Neuroscience",
+        "name": "Cognitive Neuroscience",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 2
+            },
+            {
+                "day": "Fri",
+                "slot": 2
+            }
+        ]
+    },
+    {
+        "id": "Communication Theory",
+        "name": "Communication Theory",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Mon",
+                "slot": 2
+            },
+            {
+                "day": "Thu",
+                "slot": 2
+            }
+        ]
+    },
+    {
+        "id": "Compilers",
+        "name": "Compilers",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 4
+            },
+            {
+                "day": "Fri",
+                "slot": 4
+            }
+        ]
+    },
+    {
+        "id": "Computational Linguistics 1",
+        "name": "Computational Linguistics 1",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 2
+            },
+            {
+                "day": "Fri",
+                "slot": 2
+            }
+        ]
+    },
+    {
+        "id": "Computational Psycholinguistics",
+        "name": "Computational Psycholinguistics",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Mon",
+                "slot": 4
+            },
+            {
+                "day": "Thu",
+                "slot": 4
+            }
+        ]
+    },
+    {
+        "id": "Computer Graphics",
+        "name": "Computer Graphics",
+        "half": "H2",
+        "sessions": [
+            {
+                "day": "Wed",
+                "slot": 1
+            },
+            {
+                "day": "Sat",
+                "slot": 1
+            }
+        ]
+    },
+    {
+        "id": "Computer Systems Organization",
+        "name": "Computer Systems Organization",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Mon",
+                "slot": 1
+            },
+            {
+                "day": "Thu",
+                "slot": 1
+            }
+        ]
+    },
+    {
+        "id": "Computer Vision",
+        "name": "Computer Vision",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Wed",
+                "slot": 2
+            },
+            {
+                "day": "Sat",
+                "slot": 2
+            }
+        ]
+    },
+    {
+        "id": "Computing Tools",
+        "name": "Computing Tools",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 2
+            },
+            {
+                "day": "Fri",
+                "slot": 2
+            }
+        ]
+    },
+    {
+        "id": "Computing in Sciences II",
+        "name": "Computing in Sciences II",
+        "half": "H2",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 1
+            },
+            {
+                "day": "Fri",
+                "slot": 1
+            }
+        ]
+    },
+    {
+        "id": "Constitutional Ethics",
+        "name": "Constitutional Ethics",
+        "half": "H2",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 3
+            },
+            {
+                "day": "Fri",
+                "slot": 3
+            }
+        ]
+    },
+    {
+        "id": "Continuous Variable Quantum Information Theory and Computation",
+        "name": "Continuous Variable Quantum Information Theory and Computation",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 3
+            },
+            {
+                "day": "Fri",
+                "slot": 3
+            }
+        ]
+    },
+    {
+        "id": "Critical Viewing and Reading",
+        "name": "Critical Viewing and Reading",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Mon",
+                "slot": 6
+            },
+            {
+                "day": "Thu",
+                "slot": 6
+            }
+        ]
+    },
+    {
+        "id": "Data Structures and Algorithms",
+        "name": "Data Structures and Algorithms",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 1
+            },
+            {
+                "day": "Fri",
+                "slot": 1
+            }
+        ]
+    },
+    {
+        "id": "Data Systems",
+        "name": "Data Systems",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 2
+            },
+            {
+                "day": "Fri",
+                "slot": 2
+            }
+        ]
+    },
+    {
+        "id": "Data Visualisation",
+        "name": "Data Visualisation",
+        "half": "H1",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 5
+            },
+            {
+                "day": "Fri",
+                "slot": 5
+            }
+        ]
+    },
+    {
+        "id": "Design and Analysis of Software Systems",
+        "name": "Design and Analysis of Software Systems",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Mon",
+                "slot": 2
+            },
+            {
+                "day": "Thu",
+                "slot": 2
+            }
+        ]
+    },
+    {
+        "id": "Differential Equations",
+        "name": "Differential Equations",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Mon",
+                "slot": 4
+            },
+            {
+                "day": "Thu",
+                "slot": 4
+            }
+        ]
+    },
+    {
+        "id": "Digital Democracy and Data Governance in the European Union",
+        "name": "Digital Democracy and Data Governance in the European Union",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Wed",
+                "slot": 2
+            },
+            {
+                "day": "Sat",
+                "slot": 2
+            }
+        ]
+    },
+    {
+        "id": "Digital Signal Analysis",
+        "name": "Digital Signal Analysis",
+        "half": "H2",
+        "sessions": [
+            {
+                "day": "Mon",
+                "slot": 5
+            },
+            {
+                "day": "Thu",
+                "slot": 5
+            }
+        ]
+    },
+    {
+        "id": "Disaster Management",
+        "name": "Disaster Management",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Mon",
+                "slot": 4
+            },
+            {
+                "day": "Thu",
+                "slot": 4
+            }
+        ]
+    },
+    {
+        "id": "Distributed Systems",
+        "name": "Distributed Systems",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 4
+            },
+            {
+                "day": "Fri",
+                "slot": 4
+            }
+        ]
+    },
+    {
+        "id": "Earthquake Engineering",
+        "name": "Earthquake Engineering",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 2
+            },
+            {
+                "day": "Fri",
+                "slot": 2
+            }
+        ]
+    },
+    {
+        "id": "Electronics Workshop II",
+        "name": "Electronics Workshop II",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 2
+            },
+            {
+                "day": "Tue",
+                "slot": 3
+            },
+            {
+                "day": "Fri",
+                "slot": 2
+            },
+            {
+                "day": "Fri",
+                "slot": 3
+            }
+        ]
+    },
+    {
+        "id": "Engineering Virtual Reality Systems",
+        "name": "Engineering Virtual Reality Systems",
+        "half": "H2",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 2
+            }
+        ]
+    },
+    {
+        "id": "Ethics and the Digital Society",
+        "name": "Ethics and the Digital Society",
+        "half": "H1",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 3
+            },
+            {
+                "day": "Fri",
+                "slot": 3
+            }
+        ]
+    },
+    {
+        "id": "Ethics in Research",
+        "name": "Ethics in Research",
+        "half": "H2",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 3
+            },
+            {
+                "day": "Fri",
+                "slot": 3
+            }
+        ]
+    },
+    {
+        "id": "Evaluation Methods for NLP",
+        "name": "Evaluation Methods for NLP",
+        "half": "H1",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 3
+            },
+            {
+                "day": "Fri",
+                "slot": 3
+            }
+        ]
+    },
+    {
+        "id": "Flexible Electronics",
+        "name": "Flexible Electronics",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Mon",
+                "slot": 5
+            },
+            {
+                "day": "Thu",
+                "slot": 5
+            }
+        ]
+    },
+    {
+        "id": "Foundations for Trustworthy Parallel Computing",
+        "name": "Foundations for Trustworthy Parallel Computing",
+        "half": "H2",
+        "sessions": [
+            {
+                "day": "Mon",
+                "slot": 3
+            },
+            {
+                "day": "Thu",
+                "slot": 3
+            }
+        ]
+    },
+    {
+        "id": "Foundations of RF and Microwave Sensors",
+        "name": "Foundations of RF and Microwave Sensors",
+        "half": "H2",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 4
+            },
+            {
+                "day": "Fri",
+                "slot": 4
+            }
+        ]
+    },
+    {
+        "id": "Gender, Culture and Representation",
+        "name": "Gender, Culture and Representation",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Wed",
+                "slot": 2
+            },
+            {
+                "day": "Sat",
+                "slot": 2
+            }
+        ]
+    },
+    {
+        "id": "General and Structural Chemistry",
+        "name": "General and Structural Chemistry",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Mon",
+                "slot": 2
+            },
+            {
+                "day": "Thu",
+                "slot": 2
+            }
+        ]
+    },
+    {
+        "id": "Growth and Development",
+        "name": "Growth and Development",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Mon",
+                "slot": 6
+            },
+            {
+                "day": "Thu",
+                "slot": 6
+            }
+        ]
+    },
+    {
+        "id": "Hydro Informatics and Climate Sciences",
+        "name": "Hydro Informatics and Climate Sciences",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 4
+            },
+            {
+                "day": "Fri",
+                "slot": 4
+            }
+        ]
+    },
+    {
+        "id": "Information Security Audit and Assurance",
+        "name": "Information Security Audit and Assurance",
+        "half": "H2",
+        "sessions": [
+            {
+                "day": "Wed",
+                "slot": 1
+            },
+            {
+                "day": "Sat",
+                "slot": 1
+            }
+        ]
+    },
+    {
+        "id": "Information and Communication",
+        "name": "Information and Communication",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Mon",
+                "slot": 3
+            },
+            {
+                "day": "Thu",
+                "slot": 3
+            }
+        ]
+    },
+    {
+        "id": "Information-Theoretic Methods in Computer Science",
+        "name": "Information-Theoretic Methods in Computer Science",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 4
+            },
+            {
+                "day": "Fri",
+                "slot": 4
+            }
+        ]
+    },
+    {
+        "id": "Instrumentation and Devices",
+        "name": "Instrumentation and Devices",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 2
+            },
+            {
+                "day": "Fri",
+                "slot": 2
+            }
+        ]
+    },
+    {
+        "id": "Internals of Application Servers",
+        "name": "Internals of Application Servers",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 4
+            },
+            {
+                "day": "Fri",
+                "slot": 4
+            }
+        ]
+    },
+    {
+        "id": "Introduction to Algorithms Engineering",
+        "name": "Introduction to Algorithms Engineering",
+        "half": "H2",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 1
+            },
+            {
+                "day": "Fri",
+                "slot": 1
+            }
+        ]
+    },
+    {
+        "id": "Introduction to Coding Theory",
+        "name": "Introduction to Coding Theory",
+        "half": "H2",
+        "sessions": [
+            {
+                "day": "Mon",
+                "slot": 1
+            },
+            {
+                "day": "Thu",
+                "slot": 1
+            }
+        ]
+    },
+    {
+        "id": "Introduction to Game Theory",
+        "name": "Introduction to Game Theory",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 2
+            },
+            {
+                "day": "Fri",
+                "slot": 2
+            }
+        ]
+    },
+    {
+        "id": "Introduction to Human Sciences",
+        "name": "Introduction to Human Sciences",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Mon",
+                "slot": 3
+            },
+            {
+                "day": "Mon",
+                "slot": 4
+            },
+            {
+                "day": "Thu",
+                "slot": 3
+            },
+            {
+                "day": "Thu",
+                "slot": 4
+            }
+        ]
+    },
+    {
+        "id": "Introduction to Information Security",
+        "name": "Introduction to Information Security",
+        "half": "H1",
+        "sessions": [
+            {
+                "day": "Mon",
+                "slot": 5
+            },
+            {
+                "day": "Thu",
+                "slot": 5
+            }
+        ]
+    },
+    {
+        "id": "Introduction to IoT",
+        "name": "Introduction to IoT",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Mon",
+                "slot": 2
+            },
+            {
+                "day": "Thu",
+                "slot": 2
+            }
+        ]
+    },
+    {
+        "id": "Introduction to Linguistics II",
+        "name": "Introduction to Linguistics II",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Mon",
+                "slot": 2
+            },
+            {
+                "day": "Thu",
+                "slot": 2
+            }
+        ]
+    },
+    {
+        "id": "Introduction to NLP",
+        "name": "Introduction to NLP",
+        "half": "H2",
+        "sessions": [
+            {
+                "day": "Wed",
+                "slot": 1
+            },
+            {
+                "day": "Sat",
+                "slot": 1
+            }
+        ]
+    },
+    {
+        "id": "Introduction to Particle Physics",
+        "name": "Introduction to Particle Physics",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Mon",
+                "slot": 2
+            },
+            {
+                "day": "Thu",
+                "slot": 2
+            }
+        ]
+    },
+    {
+        "id": "Introduction to Philosophy of Technology",
+        "name": "Introduction to Philosophy of Technology",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 5
+            },
+            {
+                "day": "Fri",
+                "slot": 5
+            }
+        ]
+    },
+    {
+        "id": "Introduction to Processor Architecture",
+        "name": "Introduction to Processor Architecture",
+        "half": "H1",
+        "sessions": [
+            {
+                "day": "Mon",
+                "slot": 4
+            },
+            {
+                "day": "Thu",
+                "slot": 4
+            }
+        ]
+    },
+    {
+        "id": "Introduction to Quantum Information and Computation",
+        "name": "Introduction to Quantum Information and Computation",
+        "half": "H1",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 1
+            },
+            {
+                "day": "Fri",
+                "slot": 1
+            }
+        ]
+    },
+    {
+        "id": "Introduction to Robotics: Perception and Planning",
+        "name": "Introduction to Robotics: Perception and Planning",
+        "half": "H1",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 4
+            },
+            {
+                "day": "Fri",
+                "slot": 4
+            }
+        ]
+    },
+    {
+        "id": "Introduction to Software Systems",
+        "name": "Introduction to Software Systems",
+        "half": "H2",
+        "sessions": [
+            {
+                "day": "Wed",
+                "slot": 1
+            },
+            {
+                "day": "Sat",
+                "slot": 1
+            }
+        ]
+    },
+    {
+        "id": "Introduction to Spatial Sciences and Technology",
+        "name": "Introduction to Spatial Sciences and Technology",
+        "half": "H2",
+        "sessions": [
+            {
+                "day": "Mon",
+                "slot": 3
+            },
+            {
+                "day": "Thu",
+                "slot": 3
+            }
+        ]
+    },
+    {
+        "id": "Introduction to Statistical Signal Processing",
+        "name": "Introduction to Statistical Signal Processing",
+        "half": "H2",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 1
+            },
+            {
+                "day": "Fri",
+                "slot": 1
+            }
+        ]
+    },
+    {
+        "id": "Introduction to UAV Design",
+        "name": "Introduction to UAV Design",
+        "half": "H1",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 6
+            },
+            {
+                "day": "Fri",
+                "slot": 6
+            }
+        ]
+    },
+    {
+        "id": "Introduction to VLSI and Embedded Systems",
+        "name": "Introduction to VLSI and Embedded Systems",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 1
+            },
+            {
+                "day": "Fri",
+                "slot": 1
+            }
+        ]
+    },
+    {
+        "id": "Knowing India Through Data",
+        "name": "Knowing India Through Data",
+        "half": "H1",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 5
+            },
+            {
+                "day": "Fri",
+                "slot": 5
+            }
+        ]
+    },
+    {
+        "id": "Language Typology and Universals",
+        "name": "Language Typology and Universals",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 3
+            },
+            {
+                "day": "Fri",
+                "slot": 3
+            }
+        ]
+    },
+    {
+        "id": "Language and Power",
+        "name": "Language and Power",
+        "half": "H1",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 3
+            },
+            {
+                "day": "Fri",
+                "slot": 3
+            }
+        ]
+    },
+    {
+        "id": "Law, Technology and Digital Governance",
+        "name": "Law, Technology and Digital Governance",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Mon",
+                "slot": 5
+            },
+            {
+                "day": "Thu",
+                "slot": 5
+            }
+        ]
+    },
+    {
+        "id": "Learning and Memory",
+        "name": "Learning and Memory",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Mon",
+                "slot": 4
+            },
+            {
+                "day": "Thu",
+                "slot": 4
+            }
+        ]
+    },
+    {
+        "id": "Linear Algebra",
+        "name": "Linear Algebra",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 3
+            },
+            {
+                "day": "Fri",
+                "slot": 3
+            }
+        ]
+    },
+    {
+        "id": "Linear Partial Differential Equations and Variational Calculus",
+        "name": "Linear Partial Differential Equations and Variational Calculus",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Mon",
+                "slot": 4
+            },
+            {
+                "day": "Thu",
+                "slot": 4
+            }
+        ]
+    },
+    {
+        "id": "Linguistic Data 3: Data Modeling in ILs",
+        "name": "Linguistic Data 3: Data Modeling in ILs",
+        "half": "H1",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 3
+            },
+            {
+                "day": "Fri",
+                "slot": 3
+            }
+        ]
+    },
+    {
+        "id": "Literature and the Ethics of telling a Story",
+        "name": "Literature and the Ethics of telling a Story",
+        "half": "H2",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 3
+            },
+            {
+                "day": "Fri",
+                "slot": 3
+            }
+        ]
+    },
+    {
+        "id": "Machine Learning for Natural Sciences",
+        "name": "Machine Learning for Natural Sciences",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Mon",
+                "slot": 2
+            },
+            {
+                "day": "Thu",
+                "slot": 2
+            }
+        ]
+    },
+    {
+        "id": "Machine, Data and Learning",
+        "name": "Machine, Data and Learning",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Wed",
+                "slot": 2
+            },
+            {
+                "day": "Sat",
+                "slot": 2
+            }
+        ]
+    },
+    {
+        "id": "Making of Contemporary World",
+        "name": "Making of Contemporary World",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Mon",
+                "slot": 1
+            },
+            {
+                "day": "Thu",
+                "slot": 1
+            }
+        ]
+    },
+    {
+        "id": "Mathematical Methods in Sciences",
+        "name": "Mathematical Methods in Sciences",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 1
+            },
+            {
+                "day": "Fri",
+                "slot": 1
+            }
+        ]
+    },
+    {
+        "id": "Mathematical Models in Biology",
+        "name": "Mathematical Models in Biology",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Mon",
+                "slot": 2
+            },
+            {
+                "day": "Thu",
+                "slot": 2
+            }
+        ]
+    },
+    {
+        "id": "Mathematics for Finance",
+        "name": "Mathematics for Finance",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 4
+            },
+            {
+                "day": "Fri",
+                "slot": 4
+            }
+        ]
+    },
+    {
+        "id": "Mechatronics System Design",
+        "name": "Mechatronics System Design",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Wed",
+                "slot": 2
+            },
+            {
+                "day": "Sat",
+                "slot": 2
+            }
+        ]
+    },
+    {
+        "id": "Molecular Biology",
+        "name": "Molecular Biology",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Mon",
+                "slot": 2
+            },
+            {
+                "day": "Thu",
+                "slot": 2
+            }
+        ]
+    },
+    {
+        "id": "Molecular Modeling and Simulations",
+        "name": "Molecular Modeling and Simulations",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 1
+            },
+            {
+                "day": "Fri",
+                "slot": 1
+            }
+        ]
+    },
+    {
+        "id": "Molecular Symmetry and Quantum Mechanics",
+        "name": "Molecular Symmetry and Quantum Mechanics",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 1
+            },
+            {
+                "day": "Fri",
+                "slot": 1
+            }
+        ]
+    },
+    {
+        "id": "Music Language Creativity",
+        "name": "Music Language Creativity",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 5
+            },
+            {
+                "day": "Fri",
+                "slot": 5
+            }
+        ]
+    },
+    {
+        "id": "NGS Data Analysis",
+        "name": "NGS Data Analysis",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 4
+            },
+            {
+                "day": "Fri",
+                "slot": 4
+            }
+        ]
+    },
+    {
+        "id": "Numerical Algorithms",
+        "name": "Numerical Algorithms",
+        "half": "H1",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 3
+            },
+            {
+                "day": "Fri",
+                "slot": 3
+            }
+        ]
+    },
+    {
+        "id": "Optical Remote Sensing",
+        "name": "Optical Remote Sensing",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 4
+            },
+            {
+                "day": "Fri",
+                "slot": 4
+            }
+        ]
+    },
+    {
+        "id": "Optimization Methods",
+        "name": "Optimization Methods",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Mon",
+                "slot": 1
+            },
+            {
+                "day": "Thu",
+                "slot": 1
+            }
+        ]
+    },
+    {
+        "id": "Organic Chemistry",
+        "name": "Organic Chemistry",
+        "half": "H2",
+        "sessions": [
+            {
+                "day": "Mon",
+                "slot": 3
+            },
+            {
+                "day": "Thu",
+                "slot": 3
+            }
+        ]
+    },
+    {
+        "id": "Organizational Operations",
+        "name": "Organizational Operations",
+        "half": "H2",
+        "sessions": []
+    },
+    {
+        "id": "Performance Modeling of Computer Systems",
+        "name": "Performance Modeling of Computer Systems",
+        "half": "H1",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 2
+            },
+            {
+                "day": "Fri",
+                "slot": 2
+            }
+        ]
+    },
+    {
+        "id": "Physics of Soft Condensed Matter",
+        "name": "Physics of Soft Condensed Matter",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Mon",
+                "slot": 2
+            },
+            {
+                "day": "Thu",
+                "slot": 2
+            }
+        ]
+    },
+    {
+        "id": "Principles of Information Security",
+        "name": "Principles of Information Security",
+        "half": "H1",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 6
+            },
+            {
+                "day": "Fri",
+                "slot": 6
+            }
+        ]
+    },
+    {
+        "id": "Product Design Workshop",
+        "name": "Product Design Workshop",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Wed",
+                "slot": 2
+            },
+            {
+                "day": "Sat",
+                "slot": 2
+            }
+        ]
+    },
+    {
+        "id": "Product Lifecycle Management",
+        "name": "Product Lifecycle Management",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 1
+            },
+            {
+                "day": "Fri",
+                "slot": 1
+            }
+        ]
+    },
+    {
+        "id": "Quantum aspects of Cryptography",
+        "name": "Quantum aspects of Cryptography",
+        "half": "H2",
+        "sessions": [
+            {
+                "day": "Wed",
+                "slot": 1
+            },
+            {
+                "day": "Sat",
+                "slot": 1
+            }
+        ]
+    },
+    {
+        "id": "Readings in Russian Literature",
+        "name": "Readings in Russian Literature",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 5
+            },
+            {
+                "day": "Fri",
+                "slot": 5
+            }
+        ]
+    },
+    {
+        "id": "Research Methods in Human Sciences",
+        "name": "Research Methods in Human Sciences",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 1
+            },
+            {
+                "day": "Fri",
+                "slot": 1
+            }
+        ]
+    },
+    {
+        "id": "Responsible and Safe AI Systems",
+        "name": "Responsible and Safe AI Systems",
+        "half": "H2",
+        "sessions": [
+            {
+                "day": "Mon",
+                "slot": 3
+            },
+            {
+                "day": "Thu",
+                "slot": 3
+            }
+        ]
+    },
+    {
+        "id": "Robotics: Planning and Navigation",
+        "name": "Robotics: Planning and Navigation",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Mon",
+                "slot": 5
+            },
+            {
+                "day": "Thu",
+                "slot": 5
+            }
+        ]
+    },
+    {
+        "id": "Science II",
+        "name": "Science II",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Mon",
+                "slot": 4
+            },
+            {
+                "day": "Tue",
+                "slot": 4
+            },
+            {
+                "day": "Thu",
+                "slot": 4
+            },
+            {
+                "day": "Fri",
+                "slot": 4
+            }
+        ]
+    },
+    {
+        "id": "Science Lab II",
+        "name": "Science Lab II",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 4
+            },
+            {
+                "day": "Tue",
+                "slot": 5
+            },
+            {
+                "day": "Fri",
+                "slot": 4
+            },
+            {
+                "day": "Fri",
+                "slot": 5
+            }
+        ]
+    },
+    {
+        "id": "Science, Technology and Society",
+        "name": "Science, Technology and Society",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 2
+            },
+            {
+                "day": "Fri",
+                "slot": 2
+            }
+        ]
+    },
+    {
+        "id": "Sociology of Platform Economies",
+        "name": "Sociology of Platform Economies",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Wed",
+                "slot": 2
+            },
+            {
+                "day": "Sat",
+                "slot": 2
+            }
+        ]
+    },
+    {
+        "id": "Software Engineering",
+        "name": "Software Engineering",
+        "half": "H1",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 6
+            },
+            {
+                "day": "Fri",
+                "slot": 6
+            }
+        ]
+    },
+    {
+        "id": "Software Programming for Performance",
+        "name": "Software Programming for Performance",
+        "half": "H1",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 5
+            },
+            {
+                "day": "Fri",
+                "slot": 5
+            }
+        ]
+    },
+    {
+        "id": "Spatial Data Sciences",
+        "name": "Spatial Data Sciences",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 2
+            },
+            {
+                "day": "Fri",
+                "slot": 2
+            }
+        ]
+    },
+    {
+        "id": "Speech Signal Processing",
+        "name": "Speech Signal Processing",
+        "half": "H2",
+        "sessions": [
+            {
+                "day": "Mon",
+                "slot": 3
+            },
+            {
+                "day": "Thu",
+                "slot": 3
+            }
+        ]
+    },
+    {
+        "id": "Statistical Mechanics",
+        "name": "Statistical Mechanics",
+        "half": "H2",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 2
+            },
+            {
+                "day": "Fri",
+                "slot": 2
+            }
+        ]
+    },
+    {
+        "id": "Statistical Methods in AI",
+        "name": "Statistical Methods in AI",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Mon",
+                "slot": 5
+            },
+            {
+                "day": "Thu",
+                "slot": 5
+            }
+        ]
+    },
+    {
+        "id": "Sustainable Growth Strategy for Startup",
+        "name": "Sustainable Growth Strategy for Startup",
+        "half": "H1",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 5
+            },
+            {
+                "day": "Fri",
+                "slot": 5
+            }
+        ]
+    },
+    {
+        "id": "System and Network Security",
+        "name": "System and Network Security",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 5
+            },
+            {
+                "day": "Fri",
+                "slot": 5
+            }
+        ]
+    },
+    {
+        "id": "Technology Product Entrepreneurship",
+        "name": "Technology Product Entrepreneurship",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 4
+            },
+            {
+                "day": "Fri",
+                "slot": 4
+            }
+        ]
+    },
+    {
+        "id": "The Digital City",
+        "name": "The Digital City",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 5
+            },
+            {
+                "day": "Fri",
+                "slot": 5
+            }
+        ]
+    },
+    {
+        "id": "The Mathematics of Information: Theory and Application",
+        "name": "The Mathematics of Information: Theory and Application",
+        "half": "H1",
+        "sessions": [
+            {
+                "day": "Mon",
+                "slot": 1
+            },
+            {
+                "day": "Tue",
+                "slot": 6
+            },
+            {
+                "day": "Thu",
+                "slot": 1
+            },
+            {
+                "day": "Fri",
+                "slot": 6
+            }
+        ]
+    },
+    {
+        "id": "The Universe Across Scales",
+        "name": "The Universe Across Scales",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 1
+            },
+            {
+                "day": "Fri",
+                "slot": 1
+            }
+        ]
+    },
+    {
+        "id": "Theories and Practices of Nationalism",
+        "name": "Theories and Practices of Nationalism",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 5
+            },
+            {
+                "day": "Fri",
+                "slot": 5
+            }
+        ]
+    },
+    {
+        "id": "Thinking and Knowing in the Human Sciences I",
+        "name": "Thinking and Knowing in the Human Sciences I",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 2
+            },
+            {
+                "day": "Fri",
+                "slot": 2
+            }
+        ]
+    },
+    {
+        "id": "Topics in Discrete Mathematics",
+        "name": "Topics in Discrete Mathematics",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 3
+            },
+            {
+                "day": "Fri",
+                "slot": 3
+            }
+        ]
+    },
+    {
+        "id": "Topics in Reinforcement Learning",
+        "name": "Topics in Reinforcement Learning",
+        "half": "H2",
+        "sessions": [
+            {
+                "day": "Mon",
+                "slot": 3
+            },
+            {
+                "day": "Thu",
+                "slot": 3
+            }
+        ]
+    },
+    {
+        "id": "Topics in SSMT",
+        "name": "Topics in SSMT",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Tue",
+                "slot": 4
+            },
+            {
+                "day": "Fri",
+                "slot": 4
+            }
+        ]
+    },
+    {
+        "id": "User Interaction and Usability of Digital Products",
+        "name": "User Interaction and Usability of Digital Products",
+        "half": "H2",
+        "sessions": [
+            {
+                "day": "Mon",
+                "slot": 3
+            },
+            {
+                "day": "Thu",
+                "slot": 3
+            }
+        ]
+    },
+    {
+        "id": "Value Education II",
+        "name": "Value Education II",
+        "half": "BOTH",
+        "sessions": [
+            {
+                "day": "Wed",
+                "slot": 3
+            }
+        ]
+    }
+]
