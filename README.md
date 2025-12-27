@@ -1,6 +1,6 @@
 # Timetable Generator
 
-This is a modified version of the timetable generator developed by [pranshuul](github.com/pranshuul)  
+This is a modified version of the timetable generator developed by [pranshuul](https://github.com/pranshuul/timetable_generator)  
 I have edited it to allow a friend group to create a timetable together, ie adding the feature of adding a "Name" to each course.
 
 ## How to use
