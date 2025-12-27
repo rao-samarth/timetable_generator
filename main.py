@@ -30,6 +30,9 @@ def index():
 
     # Theme state
     dark_mode = {"enabled": False}
+    
+    # Person management state
+    current_person = {"name": ""}  # Currently selected person for course selection
 
     # --- Header ---
     header = ui.header().classes(
@@ -99,7 +102,24 @@ def index():
 
         separator1 = ui.separator()
 
-        # 2. Search Area
+        # 2. Person Name Section
+        with ui.row().classes("w-full gap-2 items-center"):
+            ui.label("Your Name:").classes("font-semibold")
+            person_input = (
+                ui.input(placeholder="Enter your name (e.g., Alice)...")
+                .classes("flex-grow")
+                .props("outlined rounded-lg dense")
+            )
+            
+            def on_name_change():
+                current_person["name"] = person_input.value.strip()
+                refresh_ui()
+            
+            person_input.on_value_change(on_name_change)
+
+        separator2 = ui.separator()
+
+        # 3. Search Area
         with ui.row().classes("w-full gap-2 items-center"):
             # Input Field (grows to fill space)
             search_field = (
@@ -118,7 +138,7 @@ def index():
                 .classes("h-10 px-6 rounded-lg font-bold shadow-sm")
             )
 
-        # 3. Lists (Responsive & Full Width)
+        # 4. Lists (Responsive & Full Width)
         with ui.row().classes("w-full gap-4 md:gap-6 items-start wrap"):
 
             def list_col(title, icon, color):
@@ -142,6 +162,7 @@ def index():
                 "Selected", "check_circle", "bg-blue-50")
             col_conf, exp_conf, sep_conf = list_col(
                 "Conflicting", "block", "bg-red-50")
+
 
     # --- Footer ---
     footer = ui.footer().classes("border-t p-3 md:p-4 z-50")
@@ -205,6 +226,10 @@ def index():
             'bg-gray-700' if is_dark else 'bg-gray-200',
             remove='bg-gray-700 bg-gray-200'
         )
+        separator2.classes(
+            'bg-gray-700' if is_dark else 'bg-gray-200',
+            remove='bg-gray-700 bg-gray-200'
+        )
 
         # Update search icon
         search_icon.classes(
@@ -239,8 +264,8 @@ def index():
         # Get flattened schedule for grid
         grid.update(scheduler.get_selected_courses_flat())
 
-        sel_ids = scheduler.selected_ids
-        conf_ids = scheduler.get_conflicting_ids()
+        sel_ids = scheduler.get_selected_ids()
+        conf_ids = scheduler.get_conflicting_ids(current_person["name"])
         query = search_field.value.lower() if search_field.value else ""
         is_dark = dark_mode["enabled"]
 
@@ -261,7 +286,9 @@ def index():
                 continue
             card.set_visibility(True)
 
-            if cid in sel_ids:
+            is_selected_by_person = scheduler.is_selected(cid, current_person["name"])
+
+            if is_selected_by_person:
                 card.move(col_sel)
                 if is_dark:
                     card.classes(
@@ -306,8 +333,16 @@ def index():
         exp_conf.text = f"Conflicting ({count_conf})"
 
     def on_click(cid):
-        if cid in scheduler.selected_ids or cid not in scheduler.get_conflicting_ids():
-            scheduler.toggle_course(cid)
+        person_name = current_person["name"]
+        if not person_name:
+            ui.notify("Please enter your name first!", type="warning")
+            return
+        
+        is_selected = scheduler.is_selected(cid, person_name)
+        is_conflicting = cid in scheduler.get_conflicting_ids(person_name)
+        
+        if is_selected or not is_conflicting:
+            scheduler.toggle_course(cid, person_name)
             refresh_ui()
         else:
             ui.notify("Conflict!", type="negative")
