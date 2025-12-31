@@ -3,6 +3,7 @@
         "id": "AI and Human Rights",
         "name": "AI and Human Rights",
         "half": "H1",
+        "classroom": "H204",
         "sessions": [
             {
                 "day": "Tue",
@@ -18,6 +19,7 @@
         "id": "Advanced Algorithms",
         "name": "Advanced Algorithms",
         "half": "H2",
+        "classroom": "H103",
         "sessions": [
             {
                 "day": "Mon",
@@ -33,12 +35,14 @@
         "id": "Advanced Bioinformatics",
         "name": "Advanced Bioinformatics",
         "half": "BOTH",
+        "classroom": "TBD",
         "sessions": []
     },
     {
         "id": "Advanced Structural Analysis",
         "name": "Advanced Structural Analysis",
         "half": "BOTH",
+        "classroom": "H302",
         "sessions": [
             {
                 "day": "Mon",
@@ -54,6 +58,7 @@
         "id": "Analog Electronic Circuits",
         "name": "Analog Electronic Circuits",
         "half": "BOTH",
+        "classroom": "SH2",
         "sessions": [
             {
                 "day": "Mon",
@@ -69,6 +74,7 @@
         "id": "Analog IC Design",
         "name": "Analog IC Design",
         "half": "BOTH",
+        "classroom": "H204",
         "sessions": [
             {
                 "day": "Tue",
@@ -84,6 +90,7 @@
         "id": "Analysis and Design of Bridge Infrastructure",
         "name": "Analysis and Design of Bridge Infrastructure",
         "half": "BOTH",
+        "classroom": "H301",
         "sessions": [
             {
                 "day": "Tue",
@@ -99,6 +106,7 @@
         "id": "Analysis and Design of Precast and Prestressed Structures",
         "name": "Analysis and Design of Precast and Prestressed Structures",
         "half": "BOTH",
+        "classroom": "H304",
         "sessions": [
             {
                 "day": "Tue",
@@ -114,6 +122,7 @@
         "id": "Applications of Language Models",
         "name": "Applications of Language Models",
         "half": "BOTH",
+        "classroom": "H101",
         "sessions": [
             {
                 "day": "Mon",
@@ -129,6 +138,7 @@
         "id": "Art, Vision, and Feelings",
         "name": "Art, Vision, and Feelings",
         "half": "H2",
+        "classroom": "H201",
         "sessions": [
             {
                 "day": "Mon",
@@ -144,6 +154,7 @@
         "id": "Arts-2",
         "name": "Arts-2",
         "half": "BOTH",
+        "classroom": "Nilgiri Classrooms",
         "sessions": [
             {
                 "day": "Wed",
@@ -159,6 +170,7 @@
         "id": "Basics of Ethics",
         "name": "Basics of Ethics",
         "half": "BOTH",
+        "classroom": "H101",
         "sessions": [
             {
                 "day": "Mon",
@@ -174,6 +186,7 @@
         "id": "Behavioral Research: Statistical Methods",
         "name": "Behavioral Research: Statistical Methods",
         "half": "H2",
+        "classroom": "H105",
         "sessions": [
             {
                 "day": "Mon",
@@ -189,6 +202,7 @@
         "id": "Biomolecular Structures",
         "name": "Biomolecular Structures",
         "half": "H1",
+        "classroom": "H103",
         "sessions": [
             {
                 "day": "Tue",
@@ -204,6 +218,7 @@
         "id": "Business Finance",
         "name": "Business Finance",
         "half": "BOTH",
+        "classroom": "H103",
         "sessions": [
             {
                 "day": "Sat",
@@ -219,6 +234,7 @@
         "id": "CMOS Oscillator Design",
         "name": "CMOS Oscillator Design",
         "half": "BOTH",
+        "classroom": "H301",
         "sessions": [
             {
                 "day": "Mon",
@@ -234,6 +250,7 @@
         "id": "Classical Mechanics",
         "name": "Classical Mechanics",
         "half": "H1",
+        "classroom": "CR1",
         "sessions": [
             {
                 "day": "Tue",
@@ -249,6 +266,7 @@
         "id": "Cognitive Neuroscience",
         "name": "Cognitive Neuroscience",
         "half": "BOTH",
+        "classroom": "H303",
         "sessions": [
             {
                 "day": "Tue",
@@ -264,6 +282,7 @@
         "id": "Communication Theory",
         "name": "Communication Theory",
         "half": "BOTH",
+        "classroom": "SH3",
         "sessions": [
             {
                 "day": "Mon",
@@ -279,6 +298,7 @@
         "id": "Compilers",
         "name": "Compilers",
         "half": "BOTH",
+        "classroom": "H103",
         "sessions": [
             {
                 "day": "Tue",
@@ -294,6 +314,7 @@
         "id": "Computational Linguistics 1",
         "name": "Computational Linguistics 1",
         "half": "BOTH",
+        "classroom": "H201",
         "sessions": [
             {
                 "day": "Tue",
@@ -309,6 +330,7 @@
         "id": "Computational Psycholinguistics",
         "name": "Computational Psycholinguistics",
         "half": "BOTH",
+        "classroom": "H202",
         "sessions": [
             {
                 "day": "Mon",
@@ -324,6 +346,7 @@
         "id": "Computer Graphics",
         "name": "Computer Graphics",
         "half": "H2",
+        "classroom": "H101",
         "sessions": [
             {
                 "day": "Wed",
@@ -339,6 +362,7 @@
         "id": "Computer Systems Organization",
         "name": "Computer Systems Organization",
         "half": "BOTH",
+        "classroom": "SH1 & SH2",
         "sessions": [
             {
                 "day": "Mon",
@@ -354,6 +378,7 @@
         "id": "Computer Vision",
         "name": "Computer Vision",
         "half": "BOTH",
+        "classroom": "H205",
         "sessions": [
             {
                 "day": "Wed",
@@ -369,6 +394,7 @@
         "id": "Computing Tools",
         "name": "Computing Tools",
         "half": "BOTH",
+        "classroom": "H304",
         "sessions": [
             {
                 "day": "Tue",
@@ -384,6 +410,7 @@
         "id": "Computing in Sciences II",
         "name": "Computing in Sciences II",
         "half": "H2",
+        "classroom": "H101",
         "sessions": [
             {
                 "day": "Mon",
@@ -399,6 +426,7 @@
         "id": "Constitutional Ethics",
         "name": "Constitutional Ethics",
         "half": "H2",
+        "classroom": "H304",
         "sessions": [
             {
                 "day": "Tue",
@@ -414,6 +442,7 @@
         "id": "Continuous Variable Quantum Information Theory and Computation",
         "name": "Continuous Variable Quantum Information Theory and Computation",
         "half": "BOTH",
+        "classroom": "TBD",
         "sessions": [
             {
                 "day": "Tue",
@@ -429,6 +458,7 @@
         "id": "Critical Viewing and Reading",
         "name": "Critical Viewing and Reading",
         "half": "BOTH",
+        "classroom": "H101",
         "sessions": [
             {
                 "day": "Mon",
@@ -444,6 +474,7 @@
         "id": "Data Structures and Algorithms",
         "name": "Data Structures and Algorithms",
         "half": "BOTH",
+        "classroom": "SH1, SH2 & SH3",
         "sessions": [
             {
                 "day": "Tue",
@@ -459,6 +490,7 @@
         "id": "Data Systems",
         "name": "Data Systems",
         "half": "BOTH",
+        "classroom": "H105",
         "sessions": [
             {
                 "day": "Tue",
@@ -474,6 +506,7 @@
         "id": "Data Visualisation",
         "name": "Data Visualisation",
         "half": "H1",
+        "classroom": "H105",
         "sessions": [
             {
                 "day": "Tue",
@@ -489,6 +522,7 @@
         "id": "Design and Analysis of Software Systems",
         "name": "Design and Analysis of Software Systems",
         "half": "BOTH",
+        "classroom": "H105",
         "sessions": [
             {
                 "day": "Mon",
@@ -504,6 +538,7 @@
         "id": "Differential Equations",
         "name": "Differential Equations",
         "half": "BOTH",
+        "classroom": "H102",
         "sessions": [
             {
                 "day": "Mon",
@@ -519,6 +554,7 @@
         "id": "Digital Democracy and Data Governance in the European Union",
         "name": "Digital Democracy and Data Governance in the European Union",
         "half": "BOTH",
+        "classroom": "H102",
         "sessions": [
             {
                 "day": "Wed",
@@ -534,6 +570,7 @@
         "id": "Digital Signal Analysis",
         "name": "Digital Signal Analysis",
         "half": "H2",
+        "classroom": "H103",
         "sessions": [
             {
                 "day": "Mon",
@@ -549,6 +586,7 @@
         "id": "Disaster Management",
         "name": "Disaster Management",
         "half": "BOTH",
+        "classroom": "H301",
         "sessions": [
             {
                 "day": "Mon",
@@ -564,6 +602,7 @@
         "id": "Distributed Systems",
         "name": "Distributed Systems",
         "half": "BOTH",
+        "classroom": "H205",
         "sessions": [
             {
                 "day": "Tue",
@@ -579,6 +618,7 @@
         "id": "Earthquake Engineering",
         "name": "Earthquake Engineering",
         "half": "BOTH",
+        "classroom": "H203",
         "sessions": [
             {
                 "day": "Tue",
@@ -594,6 +634,7 @@
         "id": "Electronics Workshop II",
         "name": "Electronics Workshop II",
         "half": "BOTH",
+        "classroom": "TBD",
         "sessions": [
             {
                 "day": "Tue",
@@ -617,6 +658,7 @@
         "id": "Engineering Virtual Reality Systems",
         "name": "Engineering Virtual Reality Systems",
         "half": "BOTH",
+        "classroom": "H101",
         "sessions": [
             {
                 "day": "Tue",
@@ -628,6 +670,7 @@
         "id": "Ethics and the Digital Society",
         "name": "Ethics and the Digital Society",
         "half": "H1",
+        "classroom": "H203",
         "sessions": [
             {
                 "day": "Tue",
@@ -643,6 +686,7 @@
         "id": "Ethics in Research",
         "name": "Ethics in Research",
         "half": "H2",
+        "classroom": "H303",
         "sessions": [
             {
                 "day": "Tue",
@@ -658,6 +702,7 @@
         "id": "Evaluation Methods for NLP",
         "name": "Evaluation Methods for NLP",
         "half": "H1",
+        "classroom": "H203",
         "sessions": [
             {
                 "day": "Tue",
@@ -673,6 +718,7 @@
         "id": "Flexible Electronics",
         "name": "Flexible Electronics",
         "half": "BOTH",
+        "classroom": "H202",
         "sessions": [
             {
                 "day": "Mon",
@@ -688,6 +734,7 @@
         "id": "Foundations for Trustworthy Parallel Computing",
         "name": "Foundations for Trustworthy Parallel Computing",
         "half": "H2",
+        "classroom": "H301",
         "sessions": [
             {
                 "day": "Mon",
@@ -703,6 +750,7 @@
         "id": "Foundations of RF and Microwave Sensors",
         "name": "Foundations of RF and Microwave Sensors",
         "half": "H2",
+        "classroom": "H203",
         "sessions": [
             {
                 "day": "Tue",
@@ -718,6 +766,7 @@
         "id": "Gender, Culture and Representation",
         "name": "Gender, Culture and Representation",
         "half": "BOTH",
+        "classroom": "H201",
         "sessions": [
             {
                 "day": "Wed",
@@ -733,6 +782,7 @@
         "id": "General and Structural Chemistry",
         "name": "General and Structural Chemistry",
         "half": "BOTH",
+        "classroom": "H101",
         "sessions": [
             {
                 "day": "Mon",
@@ -748,6 +798,7 @@
         "id": "Growth and Development",
         "name": "Growth and Development",
         "half": "BOTH",
+        "classroom": "H103",
         "sessions": [
             {
                 "day": "Mon",
@@ -763,6 +814,7 @@
         "id": "Hydro Informatics and Climate Sciences",
         "name": "Hydro Informatics and Climate Sciences",
         "half": "BOTH",
+        "classroom": "H104",
         "sessions": [
             {
                 "day": "Tue",
@@ -778,6 +830,7 @@
         "id": "Information Security Audit and Assurance",
         "name": "Information Security Audit and Assurance",
         "half": "H2",
+        "classroom": "H103",
         "sessions": [
             {
                 "day": "Wed",
@@ -793,6 +846,7 @@
         "id": "Information and Communication",
         "name": "Information and Communication",
         "half": "BOTH",
+        "classroom": "SH2",
         "sessions": [
             {
                 "day": "Mon",
@@ -808,6 +862,7 @@
         "id": "Information-Theoretic Methods in Computer Science",
         "name": "Information-Theoretic Methods in Computer Science",
         "half": "BOTH",
+        "classroom": "H101",
         "sessions": [
             {
                 "day": "Tue",
@@ -823,6 +878,7 @@
         "id": "Instrumentation and Devices",
         "name": "Instrumentation and Devices",
         "half": "BOTH",
+        "classroom": "B4-302",
         "sessions": [
             {
                 "day": "Tue",
@@ -838,6 +894,7 @@
         "id": "Internals of Application Servers",
         "name": "Internals of Application Servers",
         "half": "BOTH",
+        "classroom": "H101",
         "sessions": [
             {
                 "day": "Tue",
@@ -853,6 +910,7 @@
         "id": "Introduction to Algorithms Engineering",
         "name": "Introduction to Algorithms Engineering",
         "half": "H2",
+        "classroom": "H101",
         "sessions": [
             {
                 "day": "Tue",
@@ -868,6 +926,7 @@
         "id": "Introduction to Coding Theory",
         "name": "Introduction to Coding Theory",
         "half": "H2",
+        "classroom": "H101",
         "sessions": [
             {
                 "day": "Mon",
@@ -883,6 +942,7 @@
         "id": "Introduction to Game Theory",
         "name": "Introduction to Game Theory",
         "half": "BOTH",
+        "classroom": "H104",
         "sessions": [
             {
                 "day": "Tue",
@@ -898,6 +958,7 @@
         "id": "Introduction to Human Sciences",
         "name": "Introduction to Human Sciences",
         "half": "H2",
+        "classroom": "H205 (Sec A), H105 (Sec B)",
         "sessions": [
             {
                 "day": "Mon",
@@ -921,13 +982,14 @@
         "id": "Introduction to Information Security",
         "name": "Introduction to Information Security",
         "half": "H1",
+        "classroom": "H103",
         "sessions": [
             {
-                "day": "Mon",
+                "day": "Wed",
                 "slot": 5
             },
             {
-                "day": "Thu",
+                "day": "Sat",
                 "slot": 5
             }
         ]
@@ -936,6 +998,7 @@
         "id": "Introduction to IoT",
         "name": "Introduction to IoT",
         "half": "BOTH",
+        "classroom": "H205",
         "sessions": [
             {
                 "day": "Mon",
@@ -951,6 +1014,7 @@
         "id": "Introduction to Linguistics II",
         "name": "Introduction to Linguistics II",
         "half": "BOTH",
+        "classroom": "H102",
         "sessions": [
             {
                 "day": "Mon",
@@ -966,6 +1030,7 @@
         "id": "Introduction to NLP",
         "name": "Introduction to NLP",
         "half": "H2",
+        "classroom": "H105",
         "sessions": [
             {
                 "day": "Wed",
@@ -981,6 +1046,7 @@
         "id": "Introduction to Particle Physics",
         "name": "Introduction to Particle Physics",
         "half": "BOTH",
+        "classroom": "H302",
         "sessions": [
             {
                 "day": "Mon",
@@ -996,6 +1062,7 @@
         "id": "Introduction to Philosophy of Technology",
         "name": "Introduction to Philosophy of Technology",
         "half": "BOTH",
+        "classroom": "H104",
         "sessions": [
             {
                 "day": "Tue",
@@ -1011,6 +1078,7 @@
         "id": "Introduction to Processor Architecture",
         "name": "Introduction to Processor Architecture",
         "half": "H1",
+        "classroom": "SH2",
         "sessions": [
             {
                 "day": "Mon",
@@ -1026,6 +1094,7 @@
         "id": "Introduction to Quantum Information and Computation",
         "name": "Introduction to Quantum Information and Computation",
         "half": "H1",
+        "classroom": "H101",
         "sessions": [
             {
                 "day": "Tue",
@@ -1041,6 +1110,7 @@
         "id": "Introduction to Robotics: Perception and Planning",
         "name": "Introduction to Robotics: Perception and Planning",
         "half": "H1",
+        "classroom": "H203",
         "sessions": [
             {
                 "day": "Tue",
@@ -1056,6 +1126,7 @@
         "id": "Introduction to Software Systems",
         "name": "Introduction to Software Systems",
         "half": "H2",
+        "classroom": "SH1 & SH2",
         "sessions": [
             {
                 "day": "Wed",
@@ -1071,6 +1142,7 @@
         "id": "Introduction to Spatial Sciences and Technology",
         "name": "Introduction to Spatial Sciences and Technology",
         "half": "H2",
+        "classroom": "H102",
         "sessions": [
             {
                 "day": "Mon",
@@ -1086,6 +1158,7 @@
         "id": "Introduction to Statistical Signal Processing",
         "name": "Introduction to Statistical Signal Processing",
         "half": "H2",
+        "classroom": "H103",
         "sessions": [
             {
                 "day": "Tue",
@@ -1101,6 +1174,7 @@
         "id": "Introduction to UAV Design",
         "name": "Introduction to UAV Design",
         "half": "BOTH",
+        "classroom": "H103",
         "sessions": [
             {
                 "day": "Tue",
@@ -1116,6 +1190,7 @@
         "id": "Introduction to VLSI and Embedded Systems",
         "name": "Introduction to VLSI and Embedded Systems",
         "half": "BOTH",
+        "classroom": "H103",
         "sessions": [
             {
                 "day": "Tue",
@@ -1131,6 +1206,7 @@
         "id": "Knowing India Through Data",
         "name": "Knowing India Through Data",
         "half": "H1",
+        "classroom": "H201",
         "sessions": [
             {
                 "day": "Tue",
@@ -1146,6 +1222,7 @@
         "id": "Language Typology and Universals",
         "name": "Language Typology and Universals",
         "half": "BOTH",
+        "classroom": "H101",
         "sessions": [
             {
                 "day": "Tue",
@@ -1161,6 +1238,7 @@
         "id": "Language and Power",
         "name": "Language and Power",
         "half": "H1",
+        "classroom": "H104",
         "sessions": [
             {
                 "day": "Tue",
@@ -1176,6 +1254,7 @@
         "id": "Law, Technology and Digital Governance",
         "name": "Law, Technology and Digital Governance",
         "half": "BOTH",
+        "classroom": "H201",
         "sessions": [
             {
                 "day": "Mon",
@@ -1191,6 +1270,7 @@
         "id": "Learning and Memory",
         "name": "Learning and Memory",
         "half": "BOTH",
+        "classroom": "H103",
         "sessions": [
             {
                 "day": "Mon",
@@ -1206,6 +1286,7 @@
         "id": "Linear Algebra",
         "name": "Linear Algebra",
         "half": "BOTH",
+        "classroom": "SH1, SH2 & SH3",
         "sessions": [
             {
                 "day": "Tue",
@@ -1221,6 +1302,7 @@
         "id": "Linear Partial Differential Equations and Variational Calculus",
         "name": "Linear Partial Differential Equations and Variational Calculus",
         "half": "BOTH",
+        "classroom": "H302",
         "sessions": [
             {
                 "day": "Mon",
@@ -1236,6 +1318,7 @@
         "id": "Linguistic Data 3: Data Modeling in ILs",
         "name": "Linguistic Data 3: Data Modeling in ILs",
         "half": "H1",
+        "classroom": "H102",
         "sessions": [
             {
                 "day": "Tue",
@@ -1251,6 +1334,7 @@
         "id": "Literature and the Ethics of telling a Story",
         "name": "Literature and the Ethics of telling a Story",
         "half": "H2",
+        "classroom": "H204",
         "sessions": [
             {
                 "day": "Tue",
@@ -1266,6 +1350,7 @@
         "id": "Machine Learning for Natural Sciences",
         "name": "Machine Learning for Natural Sciences",
         "half": "BOTH",
+        "classroom": "H202",
         "sessions": [
             {
                 "day": "Mon",
@@ -1281,6 +1366,7 @@
         "id": "Machine, Data and Learning",
         "name": "Machine, Data and Learning",
         "half": "BOTH",
+        "classroom": "H105",
         "sessions": [
             {
                 "day": "Wed",
@@ -1296,6 +1382,7 @@
         "id": "Making of Contemporary World",
         "name": "Making of Contemporary World",
         "half": "BOTH",
+        "classroom": "H201",
         "sessions": [
             {
                 "day": "Mon",
@@ -1311,6 +1398,7 @@
         "id": "Mathematical Methods in Sciences",
         "name": "Mathematical Methods in Sciences",
         "half": "BOTH",
+        "classroom": "H202",
         "sessions": [
             {
                 "day": "Tue",
@@ -1326,6 +1414,7 @@
         "id": "Mathematical Models in Biology",
         "name": "Mathematical Models in Biology",
         "half": "BOTH",
+        "classroom": "H103",
         "sessions": [
             {
                 "day": "Mon",
@@ -1341,6 +1430,7 @@
         "id": "Mathematics for Finance",
         "name": "Mathematics for Finance",
         "half": "BOTH",
+        "classroom": "H201",
         "sessions": [
             {
                 "day": "Tue",
@@ -1356,6 +1446,7 @@
         "id": "Mechatronics System Design",
         "name": "Mechatronics System Design",
         "half": "BOTH",
+        "classroom": "H103",
         "sessions": [
             {
                 "day": "Wed",
@@ -1371,6 +1462,7 @@
         "id": "Molecular Biology",
         "name": "Molecular Biology",
         "half": "BOTH",
+        "classroom": "H201",
         "sessions": [
             {
                 "day": "Mon",
@@ -1386,6 +1478,7 @@
         "id": "Molecular Modeling and Simulations",
         "name": "Molecular Modeling and Simulations",
         "half": "BOTH",
+        "classroom": "H301",
         "sessions": [
             {
                 "day": "Tue",
@@ -1401,6 +1494,7 @@
         "id": "Molecular Symmetry and Quantum Mechanics",
         "name": "Molecular Symmetry and Quantum Mechanics",
         "half": "BOTH",
+        "classroom": "H104",
         "sessions": [
             {
                 "day": "Tue",
@@ -1416,6 +1510,7 @@
         "id": "Music Language Creativity",
         "name": "Music Language Creativity",
         "half": "BOTH",
+        "classroom": "N328",
         "sessions": [
             {
                 "day": "Tue",
@@ -1431,6 +1526,7 @@
         "id": "NGS Data Analysis",
         "name": "NGS Data Analysis",
         "half": "BOTH",
+        "classroom": "H303",
         "sessions": [
             {
                 "day": "Tue",
@@ -1446,6 +1542,7 @@
         "id": "Numerical Algorithms",
         "name": "Numerical Algorithms",
         "half": "H1",
+        "classroom": "H103",
         "sessions": [
             {
                 "day": "Tue",
@@ -1461,6 +1558,7 @@
         "id": "Optical Remote Sensing",
         "name": "Optical Remote Sensing",
         "half": "BOTH",
+        "classroom": "H204",
         "sessions": [
             {
                 "day": "Tue",
@@ -1476,6 +1574,7 @@
         "id": "Optimization Methods",
         "name": "Optimization Methods",
         "half": "BOTH",
+        "classroom": "H103",
         "sessions": [
             {
                 "day": "Mon",
@@ -1491,6 +1590,7 @@
         "id": "Organic Chemistry",
         "name": "Organic Chemistry",
         "half": "H2",
+        "classroom": "H201",
         "sessions": [
             {
                 "day": "Mon",
@@ -1506,12 +1606,14 @@
         "id": "Organizational Operations",
         "name": "Organizational Operations",
         "half": "H2",
+        "classroom": "TBD",
         "sessions": []
     },
     {
         "id": "Performance Modeling of Computer Systems",
         "name": "Performance Modeling of Computer Systems",
         "half": "H1",
+        "classroom": "H102",
         "sessions": [
             {
                 "day": "Tue",
@@ -1527,6 +1629,7 @@
         "id": "Physics of Soft Condensed Matter",
         "name": "Physics of Soft Condensed Matter",
         "half": "BOTH",
+        "classroom": "H301",
         "sessions": [
             {
                 "day": "Mon",
@@ -1542,6 +1645,7 @@
         "id": "Principles of Information Security",
         "name": "Principles of Information Security",
         "half": "BOTH",
+        "classroom": "H105",
         "sessions": [
             {
                 "day": "Tue",
@@ -1557,6 +1661,7 @@
         "id": "Product Design Workshop",
         "name": "Product Design Workshop",
         "half": "BOTH",
+        "classroom": "H202",
         "sessions": [
             {
                 "day": "Wed",
@@ -1572,6 +1677,7 @@
         "id": "Product Lifecycle Management",
         "name": "Product Lifecycle Management",
         "half": "BOTH",
+        "classroom": "H302",
         "sessions": [
             {
                 "day": "Tue",
@@ -1587,6 +1693,7 @@
         "id": "Quantum aspects of Cryptography",
         "name": "Quantum aspects of Cryptography",
         "half": "H2",
+        "classroom": "H102",
         "sessions": [
             {
                 "day": "Wed",
@@ -1602,6 +1709,7 @@
         "id": "Readings in Russian Literature",
         "name": "Readings in Russian Literature",
         "half": "BOTH",
+        "classroom": "H101",
         "sessions": [
             {
                 "day": "Tue",
@@ -1617,6 +1725,7 @@
         "id": "Research Methods in Human Sciences",
         "name": "Research Methods in Human Sciences",
         "half": "BOTH",
+        "classroom": "H102",
         "sessions": [
             {
                 "day": "Tue",
@@ -1632,6 +1741,7 @@
         "id": "Responsible and Safe AI Systems",
         "name": "Responsible and Safe AI Systems",
         "half": "H2",
+        "classroom": "H204",
         "sessions": [
             {
                 "day": "Mon",
@@ -1647,6 +1757,7 @@
         "id": "Robotics: Planning and Navigation",
         "name": "Robotics: Planning and Navigation",
         "half": "BOTH",
+        "classroom": "H102",
         "sessions": [
             {
                 "day": "Mon",
@@ -1662,6 +1773,7 @@
         "id": "Science II",
         "name": "Science II",
         "half": "BOTH",
+        "classroom": "H105 (Sec A), H205 (Sec B)",
         "sessions": [
             {
                 "day": "Mon",
@@ -1685,6 +1797,7 @@
         "id": "Science Lab II",
         "name": "Science Lab II",
         "half": "BOTH",
+        "classroom": "TBD",
         "sessions": [
             {
                 "day": "Tue",
@@ -1708,6 +1821,7 @@
         "id": "Science, Technology and Society",
         "name": "Science, Technology and Society",
         "half": "BOTH",
+        "classroom": "H301",
         "sessions": [
             {
                 "day": "Tue",
@@ -1723,6 +1837,7 @@
         "id": "Sociology of Platform Economies",
         "name": "Sociology of Platform Economies",
         "half": "BOTH",
+        "classroom": "H101",
         "sessions": [
             {
                 "day": "Wed",
@@ -1738,6 +1853,7 @@
         "id": "Software Engineering",
         "name": "Software Engineering",
         "half": "BOTH",
+        "classroom": "H205",
         "sessions": [
             {
                 "day": "Tue",
@@ -1753,6 +1869,7 @@
         "id": "Software Programming for Performance",
         "name": "Software Programming for Performance",
         "half": "H1",
+        "classroom": "H103",
         "sessions": [
             {
                 "day": "Tue",
@@ -1768,6 +1885,7 @@
         "id": "Spatial Data Sciences",
         "name": "Spatial Data Sciences",
         "half": "BOTH",
+        "classroom": "H202",
         "sessions": [
             {
                 "day": "Tue",
@@ -1783,6 +1901,7 @@
         "id": "Speech Signal Processing",
         "name": "Speech Signal Processing",
         "half": "H2",
+        "classroom": "H302",
         "sessions": [
             {
                 "day": "Mon",
@@ -1798,6 +1917,7 @@
         "id": "Statistical Mechanics",
         "name": "Statistical Mechanics",
         "half": "H2",
+        "classroom": "H102",
         "sessions": [
             {
                 "day": "Tue",
@@ -1813,6 +1933,7 @@
         "id": "Statistical Methods in AI",
         "name": "Statistical Methods in AI",
         "half": "BOTH",
+        "classroom": "H105",
         "sessions": [
             {
                 "day": "Mon",
@@ -1828,6 +1949,7 @@
         "id": "Sustainable Growth Strategy for Startup",
         "name": "Sustainable Growth Strategy for Startup",
         "half": "H1",
+        "classroom": "H201",
         "sessions": [
             {
                 "day": "Tue",
@@ -1843,6 +1965,7 @@
         "id": "System and Network Security",
         "name": "System and Network Security",
         "half": "BOTH",
+        "classroom": "H205",
         "sessions": [
             {
                 "day": "Tue",
@@ -1858,6 +1981,7 @@
         "id": "Technology Product Entrepreneurship",
         "name": "Technology Product Entrepreneurship",
         "half": "BOTH",
+        "classroom": "H202",
         "sessions": [
             {
                 "day": "Tue",
@@ -1873,6 +1997,7 @@
         "id": "The Digital City",
         "name": "The Digital City",
         "half": "BOTH",
+        "classroom": "H102",
         "sessions": [
             {
                 "day": "Tue",
@@ -1888,6 +2013,7 @@
         "id": "The Mathematics of Information: Theory and Application",
         "name": "The Mathematics of Information: Theory and Application",
         "half": "H1",
+        "classroom": "H101",
         "sessions": [
             {
                 "day": "Mon",
@@ -1903,6 +2029,7 @@
         "id": "The Universe Across Scales",
         "name": "The Universe Across Scales",
         "half": "BOTH",
+        "classroom": "H205",
         "sessions": [
             {
                 "day": "Tue",
@@ -1918,6 +2045,7 @@
         "id": "Theories and Practices of Nationalism",
         "name": "Theories and Practices of Nationalism",
         "half": "BOTH",
+        "classroom": "H202",
         "sessions": [
             {
                 "day": "Tue",
@@ -1933,6 +2061,7 @@
         "id": "Thinking and Knowing in the Human Sciences I",
         "name": "Thinking and Knowing in the Human Sciences I",
         "half": "BOTH",
+        "classroom": "H302",
         "sessions": [
             {
                 "day": "Tue",
@@ -1948,6 +2077,7 @@
         "id": "Topics in Discrete Mathematics",
         "name": "Topics in Discrete Mathematics",
         "half": "BOTH",
+        "classroom": "H203",
         "sessions": [
             {
                 "day": "Mon",
@@ -1963,6 +2093,7 @@
         "id": "Topics in Reinforcement Learning",
         "name": "Topics in Reinforcement Learning",
         "half": "H2",
+        "classroom": "H104",
         "sessions": [
             {
                 "day": "Mon",
@@ -1978,6 +2109,7 @@
         "id": "Topics in SSMT",
         "name": "Topics in SSMT",
         "half": "BOTH",
+        "classroom": "H301",
         "sessions": [
             {
                 "day": "Tue",
@@ -1993,6 +2125,7 @@
         "id": "User Interaction and Usability of Digital Products",
         "name": "User Interaction and Usability of Digital Products",
         "half": "H2",
+        "classroom": "H203",
         "sessions": [
             {
                 "day": "Mon",
@@ -2008,6 +2141,7 @@
         "id": "Value Education II",
         "name": "Value Education II",
         "half": "BOTH",
+        "classroom": "TBD",
         "sessions": [
             {
                 "day": "Wed",
