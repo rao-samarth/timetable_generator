@@ -184,6 +184,7 @@ class CourseScraper:
                 "id": meta["official_name"],
                 "name": meta["official_name"],
                 "half": meta["half"],
+                "classroom": "TBD",  # Default classroom
                 "sessions": [],
             }
 

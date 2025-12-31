@@ -237,11 +237,18 @@ def generate_pdf_bytes(selected_courses: list) -> bytes:
                     r"\s*\(\s*H[12]?\s*\)", "", display_name, flags=re.IGNORECASE
                 ).strip()
 
+                # Classroom
+                classroom = course.get("classroom", "TBD")
+                if classroom and classroom != "TBD":
+                    display_text = f"{display_name}\n({classroom})"
+                else:
+                    display_text = display_name
+
                 # Positioning for Name
                 pdf.set_xy(x_pos + margin_gap + int_padding_x, c_y + int_padding_y)
 
                 text_width = card_width - (int_padding_x * 2)
-                pdf.multi_cell(text_width, current_line_height, display_name, 0, "C")
+                pdf.multi_cell(text_width, current_line_height, display_text, 0, "C")
 
                 # FORCE PRINT TAG (Bottom Center)
                 if has_tag:
@@ -335,4 +342,8 @@ def _add_event_if_valid(cal, course, date_obj, slot_num):
     e.name = course["name"]
     e.begin = dt_start
     e.end = dt_end
+    # Add classroom as location
+    classroom = course.get("classroom", "TBD")
+    if classroom:
+        e.location = classroom
     cal.events.add(e)

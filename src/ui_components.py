@@ -151,6 +151,11 @@ class TimetableGrid:
                     with ui.card().classes(f"w-full p-1 {color} shadow-sm mb-1"):
                         ui.label(course["name"]).classes(
                             "font-medium leading-tight")
+                        classroom = course.get("classroom", "TBD")
+                        if classroom and classroom != "TBD":
+                            ui.label(classroom).classes(
+                                "text-[10px] font-semibold text-gray-700 dark:text-gray-300"
+                            )
                         if course["half"] != "BOTH":
                             half_text_color = "text-gray-300" if self.dark_mode else "text-gray-600"
                             ui.label(course["half"]).classes(

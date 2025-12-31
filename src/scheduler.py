@@ -86,6 +86,7 @@ class Scheduler:
                     "day": day,
                     "slot": slot,
                     "course_id": course_id,  # Track original course for reference
+                    "classroom": course.get("classroom", "TBD"),  # Include classroom
                 }
             )
         
