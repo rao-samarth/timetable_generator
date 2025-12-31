@@ -9,3 +9,5 @@ I have edited it to allow a friend group to create a timetable together, ie addi
 2. In a virtual environment, run `pip install -r requirements.txt`
 3. Run `uv run main.py`
 4. Open the application at http://localhost:8080
+
+Note: You can create your own courses.json based on a different semester's course offerings and timetable.
